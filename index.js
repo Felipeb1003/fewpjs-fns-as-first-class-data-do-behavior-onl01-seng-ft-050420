@@ -14,6 +14,8 @@ function handleClick(e) {
 function greet(time) {
   
  const fixedTime = time.split(':');
+ 
+ if fixedTime[0] 
   
 }
 /* Write your implementation of displayMessage() */
