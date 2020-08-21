@@ -13,7 +13,7 @@ function handleClick(e) {
 
 function greet(time) {
   
-  time.spl
+ const fixedTime = time.split(':');
   
 }
 /* Write your implementation of displayMessage() */
