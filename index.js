@@ -15,7 +15,7 @@ function greet(time) {
   
  const fixedTime = time.split(':');
  
- if fixedTime[0] 
+ if (fixedTime[0] < 12) return 
   
 }
 /* Write your implementation of displayMessage() */
